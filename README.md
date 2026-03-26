@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soto125/soto125/main/salo.git.png" width="100%">
+</p>
 # 👩‍💻 Salomé Soto Vélez
 
 ### Full Stack Developer | React Certified | Node.js | PostgreSQL 🚀
