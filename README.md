@@ -64,19 +64,19 @@ Desarrolladora Web con un enfoque híbrido entre **creatividad frontend** y **so
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soto125&show_icons=true&theme=tokyonight&title_color=CBA6F7&icon_color=F78DA7" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soto125&layout=compact&theme=tokyonight&title_color=CBA6F7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soto125&theme=tokyonight&ring=F78DA7&fire=CBA6F7&currStreakLabel=F78DA7" />
 </p>
+>
 
 ---
 
 ## 📫 Conecta conmigo
 <p align="left">
 <a href="TU_LINK_DE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="salomesoto718@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
 
-## ✨ Frase
+## ✨
 > *"Transformando ideas complejas en soluciones digitales simples y efectivas."* 💡
