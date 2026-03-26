@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/soto125/soto125/main/salo.git.png" width="100%">
+  <img src="salo.git.png" alt="Salomé Developer Banner" width="100%">
 </p>
 # 👩‍💻 Salomé Soto Vélez
 
-### Full Stack Developer | React Certified | Node.js | PostgreSQL 🚀
+### Web Developer | React Certified | JavaScript | Node.js 🚀
 
 ✨ "Turning ideas into real-world applications through code"
 
