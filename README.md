@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="salo.git.png" width="100%">
+  <img src="salo.git.png" width="80%" style="border-radius: 15px;">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=F78DA7&center=true&vCenter=true&width=600&lines=Salomé+Soto+Vélez;Web+Developer;React+Certified;JavaScript+%7C+Node.js;Building+real+world+apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Salomé+Soto+Vélez;Web+Developer;React+Certified;JavaScript+%7C+Node.js;Building+real+world+apps+🚀" />
 </p>
 
 ---
@@ -30,16 +30,16 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-FFB6C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-B39DDB?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-D8B4F8?style=for-the-badge&logo=prisma&logoColor=white"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F48FB1?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-CE93D8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF9AA2?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </p>
 
@@ -63,7 +63,7 @@ A smart parking management application:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soto125&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soto125&show_icons=true&theme=tokyonight&title_color=CBA6F7&icon_color=F78DA7" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ A smart parking management application:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soto125&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soto125&theme=tokyonight&ring=F78DA7&fire=CBA6F7&currStreakLabel=F78DA7" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ A smart parking management application:
 ## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soto125&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soto125&layout=compact&theme=tokyonight&title_color=CBA6F7" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ A smart parking management application:
 ## 🎯 Goals
 
 🚀 Grow as a Software Developer  
-⚛️ Master React and modern technologies  
+⚛️ Strengthen my skills in React and modern technologies  
 🌍 Build scalable and impactful applications  
 
 ---
