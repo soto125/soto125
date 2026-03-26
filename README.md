@@ -1,20 +1,71 @@
-Software Developer | Problem Solver 💡
-👩‍💻 Sobre mí
+# 👩‍💻 Salomé Soto Vélez
 
-Soy Salomé Soto Vélez, desarrolladora apasionada por la tecnología, el aprendizaje constante y el trabajo en equipo. Me caracterizo por ser una persona curiosa, proactiva y enfocada en crear soluciones útiles y bien estructuradas.
+### Full Stack Developer | React Certified | Node.js | PostgreSQL 🚀
 
-🚀 Perfil como desarrolladora
+✨ "Turning ideas into real-world applications through code"
 
-Tengo experiencia en el desarrollo de aplicaciones web, tanto en frontend como backend, participando en proyectos completos desde cero. Me interesa especialmente crear soluciones funcionales, intuitivas y adaptadas a las necesidades del usuario.
+---
 
-🛠️ Tecnologías y lenguajes Frontend: HTML, CSS, JavaScript, Angular, React JS (con certificado) Backend: Node.js, Express Base de datos: PostgreSQL ORM: Prisma Herramientas: Git, GitHub, Postman 📱 Proyectos destacados
+## 👩‍💻 About Me
 
-ParkApp Aplicación completa para gestión de parqueaderos que incluye:
+- 💻 Full Stack Developer (Frontend + Backend)  
+- ⚛️ Certified in React JS  
+- 🚗 Currently building ParkApp  
+- 📚 Constant learner and tech enthusiast  
+- 🤝 Teamwork and problem-solving oriented  
 
-Autenticación de usuarios Gestión de reservas Sistema de pagos Filtros de búsqueda personalizados Notificaciones y chat Integración con mapas (Google Maps / Waze)
+---
 
-También he trabajado en:
+## 🛠️ Tech Stack
 
-Módulos de seguridad y salud en el trabajo (SG-SST) Matrices de riesgos (IPER) basadas en normativa colombiana Interfaces dinámicas y responsivas enfocadas en experiencia de usuario 💡 Fortalezas Capacidad de aprender rápidamente nuevas tecnologías Desarrollo de soluciones completas (frontend + backend) Organización de proyectos por sprints y requerimientos Pensamiento lógico y enfoque en resolución de problemas 🎯 Objetivo profesional
+**Frontend:**  
+HTML • CSS • JavaScript • Angular • React  
 
-Seguir creciendo como desarrolladora, fortaleciendo mis habilidades en tecnologías modernas como Rea
+**Backend:**  
+Node.js • Express  
+
+**Database:**  
+PostgreSQL • Prisma  
+
+**Tools:**  
+Git • GitHub • Postman  
+
+---
+
+## 📱 Featured Project
+
+🚗 **ParkApp**  
+A full-featured parking management application:
+
+- User authentication  
+- Reservations system  
+- Payment integration  
+- Smart search & filters  
+- Notifications & real-time features  
+- Maps integration (Google Maps / Waze)  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=soto125&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soto125&theme=tokyonight)
+
+---
+
+## 🧠 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soto125&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Goals
+
+- Grow as a Software Developer  
+- Master React and modern architectures  
+- Build scalable and impactful applications  
